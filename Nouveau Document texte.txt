@@ -1,0 +1,4 @@
+@echo off
+cd "C:\Users\Adam Bamba\PycharmProjects\pythonProject - Automatisation Impayés"
+"C:\Users\Adam Bamba\AppData\Local\Microsoft\WindowsApps\python.exe" "C:\Users\Adam Bamba\PycharmProjects\pythonProject - Automatisation Impayés\Automatisation Impayés.py"
+pause
